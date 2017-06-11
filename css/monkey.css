@@ -1,0 +1,14 @@
+body {
+    height: 100%;
+    background-color: #E5E9F2;
+}
+
+.login {
+    margin-top: 20%;
+    text-align: center;
+    background-color: white;
+}
+
+.btn-signin {
+    background-color: gray;
+}
